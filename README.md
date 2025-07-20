@@ -125,15 +125,7 @@ ecommerce/
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-- **Project Author**: [Your Name]
-- **Email**: [your.email@example.com]
-- **LinkedIn**: [Your LinkedIn Profile]
 
-## Acknowledgments
-- Data analysis techniques inspired by modern e-commerce analytics
-- Visualization design following data science best practices
-- Built with Python data science ecosystem tools
 
 ---
 *This project demonstrates end-to-end data analysis capabilities for e-commerce business intelligence and decision-making.*
